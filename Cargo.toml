@@ -1,0 +1,10 @@
+[package]
+name = "ammonite"
+version = "0.0.0"
+edition = "2021"
+description = "A note-taking tool"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
